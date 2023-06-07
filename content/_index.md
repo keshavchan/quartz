@@ -2,6 +2,7 @@
 title: "keshav"
 enableToc: false
 ---
+![[thoreaus_hut.svg]]
 
 Hello there, traveller of the web. You must be tired from your journey. I'm Keshav Chauhan. 
 
