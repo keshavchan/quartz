@@ -2,7 +2,7 @@
 title: "keshav"
 enableToc: false
 ---
-![[thoreaus_hut.svg]]
+![thoreaus_hut.svg](https://drive.google.com/file/d/1ZgfpUOuZty9L2oSDs3BuNwIEXI5ViH22/view?usp=sharing)
 
 Hello there, traveller of the web. You must be tired from your journey. I'm Keshav Chauhan. 
 
