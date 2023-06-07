@@ -3,11 +3,7 @@ enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-```yaml {title="data/config.yaml"}
- enableCodeBlockTitle: true  # example from step 1
- ```
-
-
+enableCodeBlockTitle: true  
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
