@@ -9,3 +9,5 @@ Oh, you want to know more about me? (chuckles) Sure. I'm Keshav, an object desig
 
 Currently, I'm learning SwiftUI because I believe code is the most sophisticated design tool on the planet, and I want to be friends with her. Yes, language is a living entity for me.
 
+> *But this was classic Sam —he had learned to tolerate the sometimes-painful present by living in the future.* —Gabrielle Zevin, Tomorrow, and Tomorrow, and Tomorrow
+
