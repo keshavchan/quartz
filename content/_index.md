@@ -1,8 +1,16 @@
 ---
-title: "keshav"
+title: M. Walton
 enableToc: false
 ---
 
-You might be tired from roaming around on the internet. Please take a moment to quench your thirst. Here, have a glass of water. Seriously, just go and grab one. I am Keshav, a software designer currently researching spatial computing and machine learning on weekends. 
+Welcome traveler! You've stumbled into my humble [[thoughts/digital-garden |garden of thought]]!
 
-At present, I'm just having a lot of fun writing about new ways of [[website/yt|employment]]. 
+> *The idea is like grass. It craves light, likes crowds, thrives on crossbreeding, grows better for being stepped on.* —Ursula K. Le Guin
+
+I'm a researcher currently exploring [[thoughts/participatory-design|participatory design]] in artificial intelligence and the emerging potential of human [[thoughts/ci |collective intelligence]]. My prior work has focused on related topics in multi-agent reinforcement learning and game theory.
+
+Here are some paths you might follow to get to know me, my research and interests:
+
+- [[cv/doings|🌱 greenhouse]]: current doings, musings and evolving ideas.
+- [[cv/projects|🌲 arboretum]]: projects that I'm happy to say took root.
+- [[books/_booklist|🍃 tea garden]]: curated reading list. grab some 🍵 and enjoy!
