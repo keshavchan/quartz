@@ -1,11 +1,11 @@
-name: Jacky Zhao
-enableToc: false
+name: Keshav Chauhan
+enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-enableCodeBlockTitle: true
+enableCodeBlockTitle: true  
 enableCodeBlockCopy: true
-enableCallouts: false
+enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
@@ -15,17 +15,14 @@ enableMermaid: true
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
-  operandApiKey: "jp9k5hudse2a828z98kxd6z3payi8u90rnje"
-  operandIndexId: "76bf623t3vjr"
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Welcome to my little island on the internet – I’m Jacky!
-  I’m curious about how we can better incentivize public goods funding, support better interactions with computers, and be more responsible stewards of technology.
-  I spend a lot of time here cultivating and building things I find interesting.
-  This is my personal digital garden and organizing system of sorts.
+  My own little corner on the internet
 page_title:
-  "jzhao.xyz"
+  "keshav"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/keshavchan
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/keshavchan
