@@ -1,4 +1,4 @@
-baseURL = "https://keshavchan.github.io/quartz/"
+baseURL = "https://jzhao.xyz/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
@@ -6,9 +6,13 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
 ]
-summaryLength = 20
 paginate = 10
+summaryLength = 20
 enableGitInfo = true
+title = "jzhao.xyz"
+
+[author]
+  name = "Jacky Zhao"
 
 [markup]
     [markup.tableOfContents]
