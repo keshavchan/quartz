@@ -1,1 +1,0 @@
-![[3657193700.jpg.webp]]![[thoreaus_hut.svg]]
