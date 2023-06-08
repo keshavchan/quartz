@@ -1,29 +1,28 @@
-name: Mike Walton
+name: Keshav Chauhan
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
-enableCodeBlockTitle: true
+enableCodeBlockTitle: true  
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: true
+enableRecentNotes: false
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/mwalton/mwalton.github.io/tree/hugo/content
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description: Playfully musing on the study and stewardship of intelligent systems (natural, artificial, collective & complex)
-page_title: "Mike Walton"
+description:
+  My own little corner on the internet
+page_title:
+  "keshav"
 links:
-  - link_name: Scholar
-    link: https://scholar.google.com/citations?user=TTEHCqUAAAAJ
+  - link_name: Twitter
+    link: https://twitter.com/keshavchan
   - link_name: GitHub
-    link: https://github.com/mwalton
-  - link_name: Bluesky 🦋
-    link: https://bsky.app/profile/mwalton.bsky.social
-
+    link: https://github.com/keshavchan

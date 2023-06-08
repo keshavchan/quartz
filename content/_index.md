@@ -1,10 +1,8 @@
 ---
-title: Keshav
+title: "keshav"
 enableToc: false
 ---
 
-I have sentences that come and go. This may be just another website for you, but for me - it's my home. Yes, truly. I love this place. 
+You might be tired from roaming around on the internet. Please take a moment to quench your thirst. Here, have a glass of water. Seriously, just go and grab one. I am Keshav, a software designer currently researching spatial computing and machine learning on weekends. 
 
-> *The idea is like grass. It craves light, likes crowds, thrives on crossbreeding, grows better for being stepped on.* —Ursula K. Le Guin
-
-
+At present, I'm just having a lot of fun writing about new ways of [[website/yt|employment]]. 
