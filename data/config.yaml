@@ -18,13 +18,12 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  My own little corner on the internet
+  I have sentences that come and go 
 page_title:
-  "keshav"
+  "kshv"
 links:
   - link_name: Twitter
     link: https://twitter.com/keshavchan
   - link_name: GitHub
     link: https://github.com/keshavchan
-  - link name: Substack
-    link: https://internetcharacters.substack.com/
+
