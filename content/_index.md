@@ -2,7 +2,7 @@
 title: "keshav"
 enableToc: false
 ---
-![peace_tree](/content/images/peach_tree.svg)
+![peach_tree](/post/images/peach_tree.svg)
 
 
 I have sentences that come and go; they try to get hold of me, chase me, make me smile, and have me write about them at 12:33 am. They love me, and I love them back. Welcome to their home, our home on the internet.
