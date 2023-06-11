@@ -1,10 +1,11 @@
 // Replace this with your own font imports!
 /* Replace this with your own font imports! */
-@import url('switzer.css');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans:wght@400;600&display=swap');
 
 :root {
-  --font-body: 'Switzer-Regular';
-  --font-header: 'Switzer-Semibold';
+  --font-body: "IBM Plex Sans";
+  --font-header: "IBM Plex Sans";
+  --font-mono: "IBM Plex Mono"
 }
 
 
