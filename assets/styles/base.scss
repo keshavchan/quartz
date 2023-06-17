@@ -2,7 +2,7 @@
 /* Replace this with your own font imports! */
 @font-face {
   font-family: 'Switzer-Variable';
-  src: url('../fonts/Switzer-Variable.woff2') format('woff2'),
+  src: url('../../assets/fonts/Switzer-Variable.woff2') format('woff2'),
        url('../fonts/Switzer-Variable.woff') format('woff'),
        url('../fonts/Switzer-Variable.ttf') format('truetype');
        font-weight: 100 900;
@@ -12,13 +12,13 @@
 
 @font-face {
   font-family: "Switzer-Medium";
-  src: url('/fonts/Switzer-Medium.ttf') format('truetype');
+  src: url('../../assets/fonts/Switzer-Medium.ttf') format('truetype');
   font-weight: normal;
 }
 
 @font-face {
   font-family: "Switzer-Regular";
-  src: url('/fonts/Switzer-Regular.ttf') format('truetype');
+  src: url('../../assets/fonts/Switzer-Regular.ttf') format('truetype');
   font-weight: normal;
 }
 
