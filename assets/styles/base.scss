@@ -1,20 +1,17 @@
 // Replace this with your own font imports!
 /* Replace this with your own font imports! */
 @font-face {
-  font-family: 'Switzer-Regular';
-  src: url('../fonts/Switzer-Regular.woff2') format('woff2');
-       font-weight: 400;
-       font-display: swap;
-       font-style: normal;
+  font-family: "Switzer-Medium";
+  src: url("../fonts/Switzer-Medium.otf") format("opentype");
+  font-weight: normal;
 }
 
 @font-face {
-  font-family: 'Switzer-Medium';
-  src: url('../fonts/Switzer-Medium.woff2') format('woff2');
-       font-weight: 500;
-       font-display: swap;
-       font-style: normal;
+  font-family: "Switzer-Regular";
+  src: url("../fonts/Switzer-Regular.otf") format("opentype");
+  font-weight: normal;
 }
+
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Mono&family=Inter:wght@400;600&display=swap');
 
